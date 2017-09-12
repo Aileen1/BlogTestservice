@@ -5,6 +5,7 @@ package com.springmvc.model;
  */
 public class BlogInfo {
 
+
     private String id;
 
 }
